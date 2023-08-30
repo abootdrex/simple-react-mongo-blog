@@ -104,13 +104,13 @@ function Navigate() {
               onClose={handleCloseNavMenu}>
               <MenuItem onClick={handleCloseNavMenu} style={styles.Button}>
                 <Button style={styles.Button}
-                ><a href='/' style={{ textDecoration: 'none'}}>Blog</a>
+                > <Link to="/" style={{textDecoration:'none'}}>Blog</Link>
                 </Button>
                 <Button
                 style={styles.Button}
-                ><a href='/Form' style={{ textDecoration: 'none' }}
-                >Post<br/><SendIcon/>
-                </a>
+                ><Link to="/Form" style={{textDecoration:'none',color:'white'}}>Post Blog<br/>
+                  <SendIcon/>
+                </Link>        
                 </Button>
               </MenuItem>
             </Menu>
