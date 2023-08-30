@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.46b6bdfa.js",
+    "static/js/787.f587e8d5.chunk.js": "/static/js/787.f587e8d5.chunk.js",
+    "static/media/durgesh.jpg": "/static/media/durgesh.63faa9ce2f54a60f10c6.jpg",
+    "static/media/backg.jpeg": "/static/media/backg.b42447fdbdff1800862d.jpeg",
+    "index.html": "/index.html",
+    "main.46b6bdfa.js.map": "/static/js/main.46b6bdfa.js.map",
+    "787.f587e8d5.chunk.js.map": "/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.46b6bdfa.js"
+  ]
+}
